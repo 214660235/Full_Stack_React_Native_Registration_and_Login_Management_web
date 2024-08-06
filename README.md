@@ -1,4 +1,8 @@
-# Welcome to your Expo app 👋
+# User Authentication and Registration Management Project in react nativ
+👋
+
+![image](https://github.com/user-attachments/assets/a84fb711-da46-4274-928a-0ad12af845d8)
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
